@@ -1,0 +1,16 @@
+{
+  "name": "typescript-starter",
+  "version": "0.0.1",
+  "description": "A TypeScript starter project",
+  "main": "index.js",
+  "author": "Luis Aviles",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-typescript": "~3.2.1",
+    "typescript": "~2.4.2"
+  }
+}
